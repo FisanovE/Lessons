@@ -1,4 +1,4 @@
-<h1>SummTwoNumber/A+B</h1>
+<h1>SummTwoNumber/ A+B</h1>
 <center><i>(Время: 1&nbsp;сек. Память: 16 Мб&nbsp;Сложность: 2%)</i></center>
 <!–– google_ad_section_start ––>
 <p class=text>
