@@ -100,5 +100,19 @@
         <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=4" rel="nofollow">https://acmp.ru</a>
         </td>
     </tr>
+    <tr>
+        <td align="center">14.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Arithmetics">Арифметика</a></td>
+        <td align="center">5%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=8" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">15.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Basketball"><Баскетбол</a></td>
+        <td align="center">5%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=61" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
     </tbody>
 </table>
