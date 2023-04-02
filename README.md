@@ -109,9 +109,23 @@
     </tr>
     <tr>
         <td align="center">15.</td>
-        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Basketball"><Баскетбол</a></td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Basketball">Баскетбол</a></td>
         <td align="center">5%</td>
         <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=61" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">16.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Basketball">Сбор земляники</a></td>
+        <td align="center">6%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=755" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">17.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Torte">Торт</a></td>
+        <td align="center">6%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=539" rel="nofollow">https://acmp.ru</a>
         </td>
     </tr>
     </tbody>
