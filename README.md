@@ -128,5 +128,26 @@
         <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=539" rel="nofollow">https://acmp.ru</a>
         </td>
     </tr>
+    <tr>
+        <td align="center">18.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Cranes">Журавлики</a></td>
+        <td align="center">7%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=92" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">19.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/ThreeFatMen">Три толстяка</a></td>
+        <td align="center">7%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=754" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">20.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/BinaryNumbers">Бинарные числа</a></td>
+        <td align="center">8%</td>
+        <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=692" rel="nofollow">https://acmp.ru</a>
+        </td>
+    </tr>
     </tbody>
 </table>
