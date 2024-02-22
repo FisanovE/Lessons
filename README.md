@@ -150,4 +150,12 @@
         </td>
     </tr>
     </tbody>
+    <tr>
+        <td align="center">20.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/QuadraticEquation">Квадратное уравнение</a></td>
+        <td align="center">-</td>
+        <td align="center">собес</a>
+        </td>
+    </tr>
+    </tbody>
 </table>
