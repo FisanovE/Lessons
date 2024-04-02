@@ -149,10 +149,16 @@
         <td><a href="https://acmp.ru/index.asp?main=task&amp;id_task=692" rel="nofollow">https://acmp.ru</a>
         </td>
     </tr>
-    </tbody>
     <tr>
-        <td align="center">20.</td>
+        <td align="center">21.</td>
         <td><a href="https://github.com/FisanovE/Lessons/tree/master/QuadraticEquation">Квадратное уравнение</a></td>
+        <td align="center">-</td>
+        <td align="center">собес</a>
+        </td>
+    </tr>
+ <tr>
+        <td align="center">22.</td>
+        <td><a href="https://github.com/FisanovE/Lessons/tree/master/Matrix">Работа с матрицей</a></td>
         <td align="center">-</td>
         <td align="center">собес</a>
         </td>
